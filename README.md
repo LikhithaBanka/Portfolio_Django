@@ -1,11 +1,5 @@
 # 🌐 Django Portfolio Website
 
-👩‍💻 Developed By
-
-Banka Likhitha
-
-Intern ID: CITS5247
-
 A responsive personal portfolio website built using **Django, HTML, CSS, and JavaScript** to showcase my skills, projects, internships, certifications, and contact information.
 
 ---
